@@ -51,7 +51,7 @@ Infrastructure Components:
 
 <hr>
 
-<h2>🛠 Technology Stack</h2>
+<h2> Technology Stack</h2>
 
 <table border="1" cellpadding="8" cellspacing="0">
 <tr><th>Layer</th><th>Technology</th></tr>
@@ -153,12 +153,12 @@ Watchtower monitors Docker Hub for updated images and automatically:
 <h2> Assignment Completion Summary</h2>
 
 <ul>
-  <li>✔ Dockerized full-stack MEAN application</li>
-  <li>✔ Implemented Docker Compose orchestration</li>
-  <li>✔ Deployed on AWS EC2</li>
-  <li>✔ Configured Port 80 access</li>
-  <li>✔ Implemented CI/CD pipeline</li>
-  <li>✔ Enabled automatic production updates</li>
+  <li> Dockerized full-stack MEAN application</li>
+  <li> Implemented Docker Compose orchestration</li>
+  <li> Deployed on AWS EC2</li>
+  <li> Configured Port 80 access</li>
+  <li> Implemented CI/CD pipeline</li>
+  <li> Enabled automatic production updates</li>
 </ul>
 
 <hr>
