@@ -133,24 +133,24 @@ Watchtower monitors Docker Hub for updated images and automatically:
 
 <h2>📷 Screenshots</h2>
 
-<h3>1️⃣ Local Docker Containers Running</h3>
+<h3> 1 Local Docker Containers Running</h3>
 <img src="screenshots/local-docker.png" width="800">
 
-<h3>2️⃣ Docker Hub Images</h3>
+<h3>2️ Docker Hub Images</h3>
 <img src="screenshots/dockerhub.png" width="800">
 
-<h3>3️⃣ GitHub Actions Successful Run</h3>
+<h3>3️ GitHub Actions Successful Run</h3>
 <img src="screenshots/github-actions.png" width="800">
 
-<h3>4️⃣ EC2 Deployment (docker ps)</h3>
+<h3>4️ EC2 Deployment (docker ps)</h3>
 <img src="screenshots/ec2-docker.png" width="800">
 
-<h3>5️⃣ Live Application on AWS</h3>
+<h3>5️ Live Application on AWS</h3>
 <img src="screenshots/live-app.png" width="800">
 
 <hr>
 
-<h2>✅ Assignment Completion Summary</h2>
+<h2> Assignment Completion Summary</h2>
 
 <ul>
   <li>✔ Dockerized full-stack MEAN application</li>
@@ -163,7 +163,7 @@ Watchtower monitors Docker Hub for updated images and automatically:
 
 <hr>
 
-<h2>📌 Conclusion</h2>
+<h2> Conclusion</h2>
 
 <p>
 This project demonstrates an end-to-end DevOps implementation including 
