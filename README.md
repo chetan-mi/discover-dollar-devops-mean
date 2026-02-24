@@ -91,7 +91,7 @@ docker compose up --build
 
 <hr>
 
-<h2>☁ Cloud Deployment</h2>
+<h2> Cloud Deployment</h2>
 
 <p>
 The application is deployed on AWS EC2 (Ubuntu 22.04).
@@ -131,7 +131,7 @@ Watchtower monitors Docker Hub for updated images and automatically:
 
 <hr>
 
-<h2>📷 Screenshots</h2>
+<h2> Screenshots</h2>
 
 <h3> 1 Local Docker Containers Running</h3>
 <img src="screenshots/local-docker.png" width="800">
